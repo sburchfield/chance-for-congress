@@ -1,0 +1,22 @@
+.aboutSectionWrapper{
+  /* height: 30em; */
+  background-image: url('./images/melton-lake.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.aboutSectionText{
+  /* height: 30em; */
+  background: linear-gradient(to left, rgba(255,255,255,1) 70%, rgba(255,255,255,0)) no-repeat;
+  background-size: 100%;
+  padding: 2em 0;
+  text-align: justify;
+  text-indent: 2em;
+}
+
+.aboutSectionText p{
+  width: 90%;
+  margin: 0 auto 0 auto;
+  padding: 0 3em 0 19em;
+}

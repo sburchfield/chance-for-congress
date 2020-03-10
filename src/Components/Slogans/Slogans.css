@@ -1,0 +1,25 @@
+#slogansWrapper{
+  padding: 1.5em 6em;
+  min-height: 35vh;
+}
+
+#slogansWrapper h4{
+  text-align: center;
+  padding: 0.5em 0 0 0;
+  font-weight: bold;
+}
+
+#slogansWrapper p{
+  text-align: justify;
+  text-indent: 2em;
+  padding: 0 2em;
+  margin: 0.25em auto;
+  /* color: #000; */
+}
+
+#slogansWrapper .icons{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  font-size: 3em;
+}
