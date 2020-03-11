@@ -13,9 +13,9 @@ import './Issues.css'
 
 let monDes = "Enim ut sem viverra aliquet eget sit amet tellus cras."
 let fireworksDes = "Montes nascetur ridiculus mus mauris vitae ultricies. "
-let towerDes = 'Eu facilisis sed odio morbi quis commodo odio. Imperdiet sed euismod nisi porta lorem mollis.'
-let greatDes = "Augue lacus viverra vitae congue. Lorem sed risus ultricies tristique nulla aliquet enim tortor."
-let capitolDes = "Ut ornare lectus sit amet est placerat in. Odio ut sem nulla pharetra diam sit amet nisl suscipit. "
+let towerDes = 'Eu facilisis sed odio morbi quis commodo odio. '
+let greatDes = "Augue lacus viverra vitae congue. Lorem sed risus ultricies."
+let capitolDes = "Ut ornare lectus sit amet est placerat in. Odio ut sem nulla pharetra. "
 
 
 class Issues extends Component {
@@ -26,45 +26,45 @@ render() {
 return(
   <div id="issuesInner">
     <Row className="issuesWrapper justify-content-around">
-      <Col className="col-4">
+      <Col md="4">
         <Pic
           title={"Healthcare"}
           description={monDes}
-          bgColorValue={'red'}
+          bgColorValue={'rgb(181,35,35)'}
           img={monument}
           link={'#'} />
       </Col>
-      <Col className="col-4">
+      <Col md="4">
         <Pic
         title={"Legalization"}
         description={fireworksDes}
-        bgColorValue={'white'}
+        bgColorValue={'rgb(21, 105, 199)'}
         img={fireworks}
         link={'#'} />
       </Col>
-      <Col className="col-4">
+      <Col md="4">
         <Pic
         title={"Right to Work"}
         description={towerDes}
-        bgColorValue={'blue'}
+        bgColorValue={'rgb(181,35,35)'}
         img={tower}
         link={'#'} />
       </Col>
     </Row>
     <Row className="projectsWrapper justify-content-center">
-      <Col className="col-4">
+      <Col md="4">
       <Pic
       title={"Tax Reform"}
       description={greatDes}
-      bgColorValue={'blue'}
+      bgColorValue={'rgb(21, 105, 199)'}
       img={greatSmokeyMountains}
       link={'#'} />
       </Col>
-      <Col className="col-4">
+      <Col md="4">
         <Pic
         title={"Term Limits"}
         description={capitolDes}
-        bgColorValue={'red'}
+        bgColorValue={'rgb(181,35,35)'}
         img={usCapitolBuilding}
         link={'#'} />
       </Col>

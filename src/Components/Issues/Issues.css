@@ -5,3 +5,14 @@
 .issuesWrapper{
   padding: 0 1em;
 }
+
+
+@media (max-width: 1024px){
+  #issuesInner{
+    padding: 1em 0;
+  }
+
+  .issuesWrapper{
+    padding: 0;
+  }
+}

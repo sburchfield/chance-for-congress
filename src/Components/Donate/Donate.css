@@ -12,3 +12,16 @@
 .donate-btn:hover{
   background-color: rgba(21, 105, 199, 0.7);
 }
+
+
+@media (max-width: 768px){
+  .donateWrapper{
+    padding: 4em 6em 3em 6em;
+  }
+}
+
+@media (max-width: 600px){
+  .donateWrapper{
+    padding: 4em 2em 3em 2em;
+  }
+}

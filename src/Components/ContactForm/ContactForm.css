@@ -16,3 +16,9 @@
   margin: 0 auto;
   display: block;
 }
+
+@media (max-width: 768px){
+  .contactFormWrapper form{
+    width: 80%;
+  }
+}

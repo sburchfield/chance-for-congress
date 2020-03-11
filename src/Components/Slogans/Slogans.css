@@ -12,9 +12,8 @@
 #slogansWrapper p{
   text-align: justify;
   text-indent: 2em;
-  padding: 0 2em;
+  padding: 0 3em;
   margin: 0.25em auto;
-  /* color: #000; */
 }
 
 #slogansWrapper .icons{
@@ -22,4 +21,25 @@
   display: block;
   margin: 0 auto;
   font-size: 3em;
+}
+
+#slogansWrapper .animated{
+  padding: 0 0 0 0;
+}
+
+@media (max-width: 1366px){
+
+  #slogansWrapper .animated{
+    padding: 1em 0 0 0;
+  }
+
+  #slogansWrapper p{
+    padding: 0 1em;
+  }
+}
+
+@media (max-width: 600px){
+  #slogansWrapper{
+    padding: 1.5em 1em;
+  }
 }

@@ -22,7 +22,7 @@
   margin-right: auto;
   margin-left: auto;
   text-align: center;
-  transition: margin 750ms ease-out;
+  transition: top 750ms ease-out;
   height: 100%;
 }
 

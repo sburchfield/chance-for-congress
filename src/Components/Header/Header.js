@@ -21,7 +21,7 @@ class Header extends Component {
           <div className="filter">
             <div className="headerWrapper">
               <Row>
-                <Col xs={8}>
+                <Col lg={8}>
                   <h1>CHANCE FOR CONGRESS 2020</h1>
                   <p><span className="red">COMPASSION. </span><span className="white">TRANSPARENCY. </span><span className="blue">SENSIBILITY. </span></p>
                 </Col>

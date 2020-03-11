@@ -8,26 +8,21 @@ header{
 }
 
 header h1{
-  font-size: 3em;
+  /* font-size: 3em; */
   font-weight: bold;
   margin: 0;
 }
 
 header h2{
-  font-size: 2em;
+  /* font-size: 2em; */
   font-weight: bold;
   margin: 0;
 }
 
 header p{
-  font-size: 1.8em;
+  /* font-size: 1.8em; */
   font-weight: bold;
   margin: 0.5em 0 0 0;
-}
-
-header ul{
-  font-size: 1.4em;
-  padding: 0 2em 0 0;
 }
 
 .filter{
@@ -39,22 +34,38 @@ header ul{
 }
 
 .headerWrapper{
-  padding: 23em 0 0 3em;
+  padding-top: 40vh;
+  padding-left: 3em;
 }
 
 
 @media (max-width: 1024px){
+  header{
+    background-position: center;
+  }
 }
 
 @media (max-width: 768px){
 
-  header{
-    height: 60vh;
+
+  header h1{
+    font-size: 1.8em;
   }
 
+  header p{
+    font-size: 1em;
+  }
 
 }
 
 @media (max-width: 600px){
+
+  header h1{
+    font-size: 1.2em;
+  }
+
+  header p{
+    font-size: 0.8em;
+  }
 
 }
