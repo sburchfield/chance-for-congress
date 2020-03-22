@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/chance-for-congress/static/css/main.021e155f.chunk.css",
-    "main.js": "/chance-for-congress/static/js/main.1c7e5b94.chunk.js",
-    "main.js.map": "/chance-for-congress/static/js/main.1c7e5b94.chunk.js.map",
+    "main.js": "/chance-for-congress/static/js/main.3e0ddfa6.chunk.js",
+    "main.js.map": "/chance-for-congress/static/js/main.3e0ddfa6.chunk.js.map",
     "runtime-main.js": "/chance-for-congress/static/js/runtime-main.dad6c363.js",
     "runtime-main.js.map": "/chance-for-congress/static/js/runtime-main.dad6c363.js.map",
     "static/css/2.47e06e2e.chunk.css": "/chance-for-congress/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.bf7a1b3e.chunk.js": "/chance-for-congress/static/js/2.bf7a1b3e.chunk.js",
-    "static/js/2.bf7a1b3e.chunk.js.map": "/chance-for-congress/static/js/2.bf7a1b3e.chunk.js.map",
+    "static/js/2.8964b222.chunk.js": "/chance-for-congress/static/js/2.8964b222.chunk.js",
+    "static/js/2.8964b222.chunk.js.map": "/chance-for-congress/static/js/2.8964b222.chunk.js.map",
     "index.html": "/chance-for-congress/index.html",
-    "precache-manifest.aafff43393eb92df3bc97ed978762dfc.js": "/chance-for-congress/precache-manifest.aafff43393eb92df3bc97ed978762dfc.js",
+    "precache-manifest.8665f7f72b0b48e77978ae8246babb57.js": "/chance-for-congress/precache-manifest.8665f7f72b0b48e77978ae8246babb57.js",
     "service-worker.js": "/chance-for-congress/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/chance-for-congress/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.021e155f.chunk.css.map": "/chance-for-congress/static/css/main.021e155f.chunk.css.map",
-    "static/js/2.bf7a1b3e.chunk.js.LICENSE.txt": "/chance-for-congress/static/js/2.bf7a1b3e.chunk.js.LICENSE.txt",
+    "static/js/2.8964b222.chunk.js.LICENSE.txt": "/chance-for-congress/static/js/2.8964b222.chunk.js.LICENSE.txt",
     "static/media/AboutSection.css": "/chance-for-congress/static/media/avatar.e5403a5c.jpg",
     "static/media/Header.css": "/chance-for-congress/static/media/background0.ef0e095d.jpg",
     "static/media/fireworks.jpg": "/chance-for-congress/static/media/fireworks.28bc066b.jpg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.dad6c363.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.bf7a1b3e.chunk.js",
+    "static/js/2.8964b222.chunk.js",
     "static/css/main.021e155f.chunk.css",
-    "static/js/main.1c7e5b94.chunk.js"
+    "static/js/main.3e0ddfa6.chunk.js"
   ]
 }
