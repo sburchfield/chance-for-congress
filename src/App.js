@@ -41,7 +41,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <Router basename="/chance-for-congress">
+        <Router basename="/">
         <Toolbar drawerClickHandler = {this.drawerToggleClickHandler}/>
         <SideDrawer show={this.state.sideDrawerOpen} drawerClickHandler = {this.drawerToggleClickHandler}/>
         {backdrop}
