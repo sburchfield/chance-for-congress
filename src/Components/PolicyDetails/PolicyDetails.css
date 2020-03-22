@@ -1,0 +1,44 @@
+.policyHeaderWrapper{
+  padding: 2em 0;
+}
+
+.policyHeaderWrapper h3{
+  text-align: center;
+  font-size: 2em;
+}
+
+.policyHeaderWrapper h6{
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.policyImages{
+  height: 15em;
+  width: 80%;
+  margin: 1em auto;
+  border-radius: 12px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.policyCardHeader{
+  font-size: 1.5em;
+}
+
+.policyText{
+  width: 87.5%;
+  margin: 0 auto 1em auto;
+  text-align: justify;
+}
+
+.listWrapper ul{
+  width: 90%;
+  margin: 0 auto 0 0;
+}
+
+.listWrapper li{
+  text-align: justify;
+  padding: 0 0 0.5em 0;
+  list-style-type: upper-roman;
+}

@@ -3,9 +3,9 @@ import React from 'react';
 import Header from '../../Components/Header/Header'
 import Slogans from '../../Components/Slogans/Slogans'
 import Issues from '../../Components/Issues/Issues'
-import Donate from '../../Components/Donate/Donate'
+import SignUp from '../../Components/SignUp/SignUp'
 import AboutSection from '../../Components/AboutSection/AboutSection'
-import ContactForm from '../../Components/ContactForm/ContactForm'
+import MessageForm from '../../Components/MessageForm/MessageForm'
 import Footer from '../../Components/Footer/Footer'
 
 
@@ -17,10 +17,10 @@ function Home() {
     <div>
       <Header />
       <Slogans />
+      <SignUp />
       <Issues />
-      <Donate />
       <AboutSection />
-      <ContactForm />
+      <MessageForm />
       <Footer />
     </div>
   );

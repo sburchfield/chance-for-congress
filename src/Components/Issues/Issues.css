@@ -7,9 +7,9 @@
 }
 
 
-@media (max-width: 1024px){
+@media (max-width: 1200px){
   #issuesInner{
-    padding: 1em 0;
+    padding: 1em;
   }
 
   .issuesWrapper{

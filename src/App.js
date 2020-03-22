@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
 import { Route, BrowserRouter as Router, Switch} from 'react-router-dom'
-
+import './animate.css';
 import './App.css';
 
 import Home from './Containers/Home/Home'
-import About from './Containers/About/About'
+import Policy from './Containers/Policy/Policy'
 import Backdrop from './Components/Backdrop/Backdrop';
 import SideDrawer from './Components/SideDrawer/SideDrawer';
 
@@ -36,19 +36,19 @@ class App extends Component {
     let backdrop
 
     if(this.state.sideDrawerOpen){
-      backdrop = <Backdrop click={this.drawerToggleClickHandler}/>
+      backdrop = <Backdrop click={this.backdropClickHandler}/>
     }
 
     return (
       <div className="App">
-        <Router basename="/">
+        <Router basename="/chance-for-congress">
         <Toolbar drawerClickHandler = {this.drawerToggleClickHandler}/>
         <SideDrawer show={this.state.sideDrawerOpen} drawerClickHandler = {this.drawerToggleClickHandler}/>
         {backdrop}
           <React.Fragment>
             <Switch>
-              <Route exact path="/" component={Home} />
-              <Route exact path="/About" component={About} />
+              <Route exact path={'/'} component={Home} />
+              <Route path={'/Policy'} component={Policy} />
             </Switch>
           </React.Fragment>
         </Router>

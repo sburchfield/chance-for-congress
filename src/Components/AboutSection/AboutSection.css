@@ -1,14 +1,22 @@
 .aboutSectionWrapper{
-  /* height: 30em; */
-  background-image: url('./images/melton-lake.jpg');
+  /* background: linear-gradient(to right, rgb(0,37,102), rgb(244,247,245) 50%, rgb(0,37,102)); */
+  background-image: linear-gradient(rgb(0,37,102), rgb(101,127,173));
+}
+
+.aboutSectionImage{
+  background-image: url('./images/avatar.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 24em;
+  width: 24em;
+  border-radius: 50%;
+  margin: 0 auto;
+  /* border: 2em solid rgb(172,0,0); */
+  /* box-shadow: 5px 3px 6px rgba(0,0,0,0.1); */
 }
 
 .aboutSectionText{
-  /* height: 30em; */
-  background: linear-gradient(to left, rgba(255,255,255,1) 80%, rgba(255,255,255,0)) no-repeat;
   background-size: 100%;
   padding: 2em 0;
   text-align: justify;
@@ -16,17 +24,27 @@
 }
 
 .aboutSectionText p{
-  width: 80%;
+  width: 90%;
   margin: 0 auto 0 auto;
   /* padding: 0 3em 0 19em; */
 }
 
 .aboutSectionHeader{
-  padding-left: 4em;
+  padding-top: 1em;
+  text-align: center;
+  font-size: 2em;
 }
 
-@media (max-width: 600px){
-  .aboutSectionHeader{
-    padding-left:5.5em;
+@media (max-width: 400px){
+  .aboutSectionImage{
+    height: 20em;
+    width: 20em;
+  }
+}
+
+@media (max-width: 350px){
+  .aboutSectionImage{
+    height: 16em;
+    width: 16em;
   }
 }

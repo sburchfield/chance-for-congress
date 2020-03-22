@@ -1,5 +1,6 @@
 .App {
-  background-color: #FFF;
+  background-color: rgb(244,247,245);
+  color: rgb(37,37,37);
   height: 100%;
   width: 100%;
   font-family: "Segoe UI", "Lucida Grande", "Lucida Sans", "Helvetica Neue", "Arial", "Helvetica", sans-serif;
@@ -18,25 +19,46 @@
 }
 
 .white{
-  color: rgb( 255, 255, 255);
+  color: rgb(244,247,245);
 }
 
 .red{
-  color: rgb(181,35,35);
+  color: rgb(172,0,0);
+}
+
+
+.light-red{
+  color: rgb(170,57,57);
 }
 
 .blue{
-  color: rgb(21, 105, 199);
+  color: rgb(0,37,102);
+}
+
+.light-blue{
+  color: rgb(101,127,173);
+}
+
+.extra-light-blue{
+  color: rgb(200,211,230);
 }
 
 .background-red{
-  background-color: rgb(181,35,35);
+  background-color: rgb(172,0,0);
+}
+
+.background-light-red{
+  background-color: rgb(170,57,57);
 }
 
 .background-blue{
-  background-color: rgb(21, 105, 199);
+  background-color: rgb(0,37,102);
+}
+
+.background-light-blue{
+  background-color: rgb(101,127,173);
 }
 
 .background-white{
-  background-color: #fff;
+  background-color: rgb(244,247,245);
 }

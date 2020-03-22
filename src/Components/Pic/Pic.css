@@ -34,7 +34,7 @@
 .infoBackground p{
   width: 80%;
   margin: 0 auto 0.75em auto;
-  font-size: 1.25em;
+  font-size: 0.975em;
 }
 
 .infoBackground a {
@@ -45,6 +45,18 @@
 
 .infoBackground a:hover {
   /* color: blue; */
+}
+
+@media (max-width: 1024px){
+  .infoBackground p{
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 600px){
+  .infoBackground p{
+    font-size: 0.8em;
+  }
 }
 
 /* @media (max-width: 1024px){

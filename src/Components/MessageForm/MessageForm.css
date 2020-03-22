@@ -1,0 +1,28 @@
+.messageFormWrapper{
+  padding: 2em 0;
+}
+
+.messageFormWrapper h3{
+  text-align: center;
+}
+
+.messageFormWrapper p {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.messageFormWrapper form{
+  width: 40%;
+  margin: 0 auto;
+}
+
+.messageFormWrapper button{
+  margin: 0 auto;
+  display: block;
+}
+
+@media (max-width: 768px){
+  .messageFormWrapper form{
+    width: 80%;
+  }
+}
