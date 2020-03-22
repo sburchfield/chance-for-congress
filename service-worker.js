@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chance-for-congress/precache-manifest.a00efa4e528ff19737932738c7c8e8aa.js"
+  "/chance-for-congress/precache-manifest.5cc0f8e6c475ae67dd59e7ee62e38560.js"
 );
 
 self.addEventListener('message', (event) => {
