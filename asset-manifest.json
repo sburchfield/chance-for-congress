@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chance-for-congress/static/css/main.021e155f.chunk.css",
-    "main.js": "/chance-for-congress/static/js/main.237ca5a7.chunk.js",
-    "main.js.map": "/chance-for-congress/static/js/main.237ca5a7.chunk.js.map",
+    "main.js": "/chance-for-congress/static/js/main.56b07a88.chunk.js",
+    "main.js.map": "/chance-for-congress/static/js/main.56b07a88.chunk.js.map",
     "runtime-main.js": "/chance-for-congress/static/js/runtime-main.dad6c363.js",
     "runtime-main.js.map": "/chance-for-congress/static/js/runtime-main.dad6c363.js.map",
     "static/css/2.47e06e2e.chunk.css": "/chance-for-congress/static/css/2.47e06e2e.chunk.css",
     "static/js/2.b2f9395f.chunk.js": "/chance-for-congress/static/js/2.b2f9395f.chunk.js",
     "static/js/2.b2f9395f.chunk.js.map": "/chance-for-congress/static/js/2.b2f9395f.chunk.js.map",
     "index.html": "/chance-for-congress/index.html",
-    "precache-manifest.006d6ea45ca12c3183a08e27b3408191.js": "/chance-for-congress/precache-manifest.006d6ea45ca12c3183a08e27b3408191.js",
+    "precache-manifest.1f81611b72ff7ef94fad1fb464ca19b0.js": "/chance-for-congress/precache-manifest.1f81611b72ff7ef94fad1fb464ca19b0.js",
     "service-worker.js": "/chance-for-congress/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/chance-for-congress/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.021e155f.chunk.css.map": "/chance-for-congress/static/css/main.021e155f.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.b2f9395f.chunk.js",
     "static/css/main.021e155f.chunk.css",
-    "static/js/main.237ca5a7.chunk.js"
+    "static/js/main.56b07a88.chunk.js"
   ]
 }
