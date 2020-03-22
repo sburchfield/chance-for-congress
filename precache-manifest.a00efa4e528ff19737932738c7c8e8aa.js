@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6baebc0214c48daa31ec898bd211fd4f",
+    "revision": "5290abe9812ff9151c4c7a9787bd812d",
     "url": "/chance-for-congress/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chance-for-congress/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "41c60756c4d99dd216db",
-    "url": "/chance-for-congress/static/css/main.021e155f.chunk.css"
+    "revision": "46bb792404e286821328",
+    "url": "/chance-for-congress/static/css/main.9b54d7f0.chunk.css"
   },
   {
     "revision": "cc45dd82e60d596eaf15",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chance-for-congress/static/js/2.8964b222.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41c60756c4d99dd216db",
-    "url": "/chance-for-congress/static/js/main.1a1010d7.chunk.js"
+    "revision": "46bb792404e286821328",
+    "url": "/chance-for-congress/static/js/main.3e0ddfa6.chunk.js"
   },
   {
     "revision": "eb039cde5c5cf6757669",
