@@ -28,7 +28,7 @@
 
 
 .light-red{
-  color: rgb(170,57,57);
+  color: rgb(255,50,50,.9);
 }
 
 .blue{
@@ -48,7 +48,7 @@
 }
 
 .background-light-red{
-  background-color: rgb(170,57,57);
+  background-color: rgb(230,50,50,.9);
 }
 
 .background-blue{
@@ -56,7 +56,7 @@
 }
 
 .background-light-blue{
-  background-color: rgb(101,127,173);
+  background-color: rgb(51, 102, 255,1);
 }
 
 .background-white{

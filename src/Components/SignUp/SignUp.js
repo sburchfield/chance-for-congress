@@ -14,7 +14,7 @@ class SignUp extends Component {
      email: "",
      full_name: "",
      headerTitle: "Sign Up!",
-     headerMessage: "Magna eget est lorem ipsum dolor sit amet consectetur. Vitae tempus quam pellentesque nec nam aliquam sem et tortor."
+     headerMessage: "Now is the time to join our movement. Join today and get weekly updates from the campaign."
     };
   }
 

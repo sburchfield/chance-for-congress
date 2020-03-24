@@ -1,6 +1,6 @@
 .sideDrawer{
   height: 100%;
-  background: #fff;
+  background: rgba(255,255,255,0.9);
   box-shadow: 1px 0px 7px rgba(0,0,0,0.5);
   position: fixed;
   top: 0;

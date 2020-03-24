@@ -14,7 +14,7 @@ const scrollWithOffset = (el, offset) => {
 }
 
 const footer = props => (
-  <footer id="footer" className="background-blue">
+  <footer id="footer" className="background-light-blue">
     <h5>Chance Brown for Congress</h5>
     <p>Egestas congue quisque egestas diam in arcu cursus euismod quis.<br />Nullam non nisi est sit amet facilisis magna etiam tempor.</p>
     <div id="bottominfo">

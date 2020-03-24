@@ -1,19 +1,20 @@
 .aboutSectionWrapper{
   /* background: linear-gradient(to right, rgb(0,37,102), rgb(244,247,245) 50%, rgb(0,37,102)); */
-  background-image: linear-gradient(rgb(0,37,102), rgb(101,127,173));
+  /*background-image: linear-gradient(rgb(51, 102, 220,1), rgb(51, 102, 255,.8)); */
+  background-image: linear-gradient(rgb(51, 102, 255,0), rgb(51, 102, 255,0));
 }
 
 .aboutSectionImage{
   background-image: url('./images/avatar.jpg');
-  background-position: center;
+  background-position: 55% 70%;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 24em;
-  width: 24em;
+  height: 20em;
+  width: 20em;
   border-radius: 50%;
   margin: 0 auto;
   /* border: 2em solid rgb(172,0,0); */
-  /* box-shadow: 5px 3px 6px rgba(0,0,0,0.1); */
+  box-shadow: 5px 3px 6px rgba(0,0,0,0.1);
 }
 
 .aboutSectionText{

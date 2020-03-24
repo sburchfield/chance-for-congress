@@ -26,8 +26,8 @@ class Header extends Component {
                   <p><span className="light-red">COMPASSION. </span><span className="white">TRANSPARENCY. </span><span className="light-blue">SENSIBILITY. </span></p>
                 </Col>
               </Row>
+              <br></br>
               <a href="https://secure.actblue.com/donate/chanceforamerica" target="_blank" rel="noopener noreferrer"><Button className="header-donate-btn">Donate Now!</Button></a>
-              <p className="header-donate-text">I am a fresh politician and every bit helps!</p>
             </div>
           </div>
         </header>

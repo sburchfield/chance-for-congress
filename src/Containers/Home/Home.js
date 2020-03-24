@@ -16,10 +16,9 @@ function Home() {
   return (
     <div>
       <Header />
-      <Slogans />
       <SignUp />
-      <Issues />
       <AboutSection />
+      <Issues />
       <MessageForm />
       <Footer />
     </div>

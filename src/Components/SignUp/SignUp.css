@@ -1,17 +1,18 @@
 .signUpWrapper{
   text-align: center;
   padding: 4em 14em 4em 14em;
-  background-image: linear-gradient(rgb(0,37,102), rgb(200,211,230));
+  background-image: linear-gradient(rgb(51, 102, 255,1), rgb(51, 102, 255,.6));
+  border: 4px double white;
 }
 
 .submit-btn{
-  background-color: rgb(21, 105, 199);
+  background-color: rgb(51, 102, 255);
   margin: 1em auto 0 auto;
   display: block;
 }
 
 .submit-btn:hover{
-  background-color: rgba(21, 105, 199, 0.7);
+  background-color: rgba(51, 102, 255, 0.7);
 }
 
 
