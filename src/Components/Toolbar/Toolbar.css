@@ -3,13 +3,13 @@
   /* top:0;
   left:0; */
   width: 100%;
-  background-color: rgb(51, 102, 230, .6);
+  background-color: rgba(51, 102, 255, 0);
   /* height: 56px; */
   z-index: 300;
 }
 
 .toolbar_nav{
-  transition: background-color 100ms cubic-bezier-timing-function;
+  transition: background-color 500ms linear;
   display: flex;
 }
 

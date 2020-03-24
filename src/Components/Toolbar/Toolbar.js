@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaFacebook, FaTwitterSquare, FaInstagram } from "react-icons/fa";
+import { FaFacebook, FaTwitterSquare, FaInstagram, FaRegBell } from "react-icons/fa";
 import DrawerToggleButton from '../SideDrawer/DrawerToggleButton'
 import { HashLink as Link } from 'react-router-hash-link';
 

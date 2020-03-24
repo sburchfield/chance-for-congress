@@ -16,7 +16,6 @@ const scrollWithOffset = (el, offset) => {
 const footer = props => (
   <footer id="footer" className="background-light-blue">
     <h5>Chance Brown for Congress</h5>
-    <p>Egestas congue quisque egestas diam in arcu cursus euismod quis.<br />Nullam non nisi est sit amet facilisis magna etiam tempor.</p>
     <div id="bottominfo">
       <ul>
         <li><a href="https://www.facebook.com/chanceforcongress" target="_blank" rel="noopener noreferrer" title="facebook account"><FaFacebook /></a></li>
@@ -32,8 +31,8 @@ const footer = props => (
       <li><a href="https://secure.actblue.com/donate/chanceforamerica" target="_blank" rel="noopener noreferrer">Donate</a></li>
     </ul>
     <p>Knoxville, TN</p>
-    <p>E-mail: chancebrown@gmail.com</p>
-    <p className="copy">© Chance Brown for Congress. All Rights Reserved</p>
+    <p>E-mail: chance@chanceforcongress.com</p>
+    <p className="copy">© Chance Brown for Congress 2020. All Rights Reserved</p>
 </footer>
 );
 
