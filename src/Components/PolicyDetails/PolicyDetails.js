@@ -65,7 +65,7 @@ class PolicyDetails extends Component {
             return (
               <div key={i} id={policy[i].title}>
               <Card>
-                <CardHeader className={(i%2 ? 'background-light-blue':'background-light-red') + ' white policyCardHeader'} onClick={this.toggle} data-event={policy[i].title}>{policy[i].title.replace(/_/g, " ")}</CardHeader>
+                <CardHeader className={(i%2 ? 'background-light-red':'background-light-blue') + ' white policyCardHeader'} onClick={this.toggle} data-event={policy[i].title}>{policy[i].title.replace(/_/g, " ")}</CardHeader>
                 <Collapse isOpen={collapse === id}>
                   <CardBody>
                     <p className="policyText">{policy[i].text}</p>

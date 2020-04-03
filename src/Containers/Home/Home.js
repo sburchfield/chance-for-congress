@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Header from '../../Components/Header/Header'
-import Slogans from '../../Components/Slogans/Slogans'
+// import Slogans from '../../Components/Slogans/Slogans'
 import Issues from '../../Components/Issues/Issues'
 import SignUp from '../../Components/SignUp/SignUp'
 import AboutSection from '../../Components/AboutSection/AboutSection'

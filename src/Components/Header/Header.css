@@ -3,7 +3,8 @@ header{
   background-position: center -50px;
   background-repeat: no-repeat;
   background-size:cover;
-  height:55vh;
+  /* height:55vh; */
+  height: 30em;
   color: #fff;
 }
 
@@ -34,7 +35,8 @@ header p{
 }
 
 .headerWrapper{
-  padding-top: 35vh;
+  /* padding-top: 35vh; */
+  padding-top: 18em;
   padding-left: 3em;
 }
 
@@ -70,7 +72,7 @@ header p{
   }
 
   .headerWrapper{
-    padding-top: 35vh;
+    /* padding-top: 35vh; */
     padding-left: 0;
   }
 
